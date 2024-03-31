@@ -1,4 +1,4 @@
-<p align="center">
+ki<p align="center">
   <img src="https://telegra.ph/file/bb3b7e8cd06579b298d76.jpg">
 </p>
 
@@ -26,7 +26,7 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CorruptEmpirecoder/TFNSPAMBOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CorruptEmpirecoder/TFNBOTSPAM.git)
 ------------------------------------------------
 
 CREDITS GOES TO MAHADEV-TORNADO-SPAM-BOT
